@@ -1,8 +1,8 @@
 {
     "name": "Gateway Merchant Server",
     "description": "Sample PHP application for processing mobile SDK transactions on the Gateway",
-    "repository": "https://github.com/Mastercard/gateway-merchant-sample-php.git",
-    "website": "https://github.com/Mastercard/gateway-merchant-sample-php",
+    "repository": "https://git.heroku.com/intense-cove-57023.git",
+    "website": "https://git.heroku.com/intense-cove-57023",
     "env": {
         "GATEWAY_MERCHANT_ID": {
             "required": true,
