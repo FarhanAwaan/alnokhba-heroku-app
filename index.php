@@ -15,7 +15,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-print_r($_SERVER); exit;
+echo "<pre>"; print_r($_SERVER); exit;
 
 include '_bootstrap.php';
 ?>
